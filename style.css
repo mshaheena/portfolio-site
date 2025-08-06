@@ -209,3 +209,96 @@ footer {
     display: none;
   }
 }
+
+/* ===== CERTIFICATIONS SECTION ===== */
+#certifications {
+  padding: 60px 20px;
+  background-color: var(--bg);
+}
+
+#certifications h2 {
+  text-align: center;
+  font-size: 32px;
+  margin-bottom: 30px;
+  color: var(--text);
+}
+
+/* Certificate Card Styling */
+.cert-card {
+  background-color: var(--card-bg);
+  border-radius: 16px;
+  box-shadow: var(--shadow);
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 900px;
+  transition: transform 0.3s ease;
+}
+
+.cert-card:hover {
+  transform: scale(1.01);
+}
+
+.cert-card h3 {
+  font-size: 22px;
+  color: var(--accent);
+  margin-bottom: 10px;
+}
+
+.cert-card p {
+  color: var(--text);
+  margin: 8px 0;
+  line-height: 1.5;
+}
+
+.cert-card ul {
+  padding-left: 20px;
+  margin: 10px 0;
+  color: var(--text);
+}
+
+.cert-card ul li {
+  margin-bottom: 6px;
+}
+
+/* Certificate Preview Image */
+.cert-card img {
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+  display: block;
+  margin: 15px auto;
+  border-radius: 12px;
+  box-shadow: var(--shadow);
+}
+
+/* View Certificate Button */
+.cert-card .btn {
+  display: inline-block;
+  margin-top: 15px;
+  background-color: var(--accent);
+  color: white;
+  padding: 10px 18px;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: background 0.3s ease;
+}
+
+.cert-card .btn:hover {
+  background-color: var(--accent-dark);
+}
+
+/* Responsive Layout */
+@media (max-width: 768px) {
+  .cert-card {
+    padding: 16px;
+  }
+
+  .cert-card h3 {
+    font-size: 20px;
+  }
+
+  .cert-card img {
+    width: 100%;
+  }
+}
+
