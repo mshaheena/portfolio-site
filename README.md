@@ -27,6 +27,88 @@ Hi there! I'm **Shaheena**, a passionate **Data Scientist & Machine Learning Eng
 * **Tools**: Pandas, NumPy, LightGBM, Gradio
 * 🔗 [Live App](https://huggingface.co/spaces/mshaheena/Rainfall_weather_Prediction)
 
+### 📊 Customer Churn Prediction (Ensemble Models)  
+* Predicts customers at risk of leaving using **Random Forest + Gradient Boosting** ensembles.  
+* Provides predictive analytics and actionable business insights for telecom/finance/SaaS.  
+* **Tools**: Python, Scikit-learn, XGBoost, Gradio  
+* 🔗 [Live App](https://huggingface.co/spaces/mshaheena/churn-prediction-ensemble)  
+
+---
+
+### 🧠 Automated Brain Tumor Classification  
+* Deep learning CNN model for **MRI-based brain tumor detection**.  
+* Enables early diagnosis and decision support for healthcare professionals.  
+* **Tools**: Python, TensorFlow/Keras, CNNs, Gradio  
+* 🔗 [Live App](https://huggingface.co/spaces/mshaheena/automated-brain-tumor-classification)  
+
+---
+
+### 🛒 Scalable Product Recommendation System  
+* Personalized product recommendations using **collaborative & content-based filtering**.  
+* Enhances e-commerce user experience and boosts sales.  
+* **Tools**: Python, Scikit-learn, Recommender Systems, Gradio  
+* 🔗 [Live App](https://huggingface.co/spaces/mshaheena/Scalable_Product_Recommendation_System)  
+
+---
+
+### 💰 AI Personal Finance Space  
+* AI-driven assistant for **budgeting, expense tracking, and financial planning**.  
+* Provides personalized insights and financial literacy support.  
+* **Tools**: Python, Hugging Face Transformers, NLP, Gradio  
+* 🔗 [Live App](https://huggingface.co/spaces/mshaheena/Ai_Personal_Finance_Space)  
+
+---
+
+### 📈 AI-Powered Multi-Modal Business Intelligence Assistant  
+* Combines **natural language queries and visual analytics** for business intelligence.  
+* Helps enterprises make smarter, data-driven decisions.  
+* **Tools**: Python, Hugging Face, Transformers, Visualization, Gradio  
+* 🔗 [Live App](https://huggingface.co/spaces/mshaheena/AI-Powered_Multi-Modal_Business_Intelligence_Assistant)  
+
+---
+
+### 📄 Resume Scanner AI  
+* AI hiring assistant that evaluates resumes, assigns **hiring scores**, and extracts insights.  
+* Saves recruiters time by automating shortlisting.  
+* **Tools**: Python, Transformers, Scikit-learn, Gradio  
+* 🔗 [Live App](https://huggingface.co/spaces/mshaheena/Resume_Scanner_AI)  
+
+---
+
+### 📊 Interactive EDA Dashboard  
+* Interactive dashboard for **EDA, outlier detection, and missing value analysis**.  
+* Auto-generates charts and insights for quick exploration.  
+* **Tools**: Python, Pandas, Matplotlib, Gradio  
+* 🔗 [Live App](https://huggingface.co/spaces/mshaheena/eda-dashboard)  
+---
+
+### 📊 Methodology Across Projects
+
+Problem Definition → Understanding business needs
+
+EDA & Preprocessing → Handling missing values, feature engineering
+
+Modeling → ML/DL (Ensemble methods, CNNs, Transformers)
+
+Evaluation → Accuracy, Precision/Recall, ROC-AUC, Interpretability
+
+Deployment → Gradio/Streamlit + Hugging Face Spaces
+---
+
+### 🚀 Business Impact
+
+📉 Reduced customer churn for telecom/finance SaaS use-cases
+
+🧠 Accelerated healthcare decisions with AI diagnosis
+
+🛒 Boosted e-commerce sales via recommendation systems
+
+💬 Enhanced customer experience with AI chatbots
+
+📊 Automated analytics reporting via dashboards
+
+💼 Optimized HR processes with AI hiring assistants
+
 ---
 
 ## 📜 Certifications (2025 unless noted)
@@ -82,5 +164,6 @@ Hi there! I'm **Shaheena**, a passionate **Data Scientist & Machine Learning Eng
 ---
 
 *Thank you for visiting! Let’s build something amazing together 🌟*
+
 
 
